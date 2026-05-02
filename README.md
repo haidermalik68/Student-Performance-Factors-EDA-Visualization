@@ -46,4 +46,4 @@ StudentPerformance/
 └── README.md
 
 ## Author
-Your Name
+Haider Malik
